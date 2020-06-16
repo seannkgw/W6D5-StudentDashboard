@@ -95,4 +95,4 @@ const CheckboxesStudents= function(props){
       </label>
     </form>)
 }
-export default RadioboxesStudents
+export default CheckboxesStudents

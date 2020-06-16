@@ -482,8 +482,9 @@ const StudentChart = function(props) {
       />
       <VictoryAxis dependentAxis />
 
-      <p>Opdrachten van leukst naar minst leuk</p>
+    
     </VictoryChart>
+    <p>Opdrachten van leuk ➡️ minst leuk</p>
     <VictoryChart width={2000} height={300} domainPadding={15} theme={wincTheme}>
 
 

@@ -26,7 +26,7 @@ class App extends React.Component {
             <Route path="/students" component={Students} />
 
           </Switch>
-          <footer>Sean Nakagawa</footer>
+          <footer>Sean Nakagawa 2020</footer>
         </div>
       </Router>
     );
